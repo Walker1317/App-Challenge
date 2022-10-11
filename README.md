@@ -1,6 +1,6 @@
-# flutter_music_player
+# app_challenge
 
-Music Player Made using Flutter
+App Challenge
 
 List of all packages that I used for this project
 - on_audio_query: https://pub.dev/packages/on_audio_query

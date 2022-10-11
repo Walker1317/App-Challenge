@@ -1,4 +1,4 @@
-package np.com.suprimpoudel.flutter_music_player
+package com.walker.appchallenge
 
 import io.flutter.embedding.android.FlutterActivity
 
